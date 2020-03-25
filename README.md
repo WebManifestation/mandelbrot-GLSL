@@ -1,7 +1,7 @@
 # mandelbrot-GLSL
 A shader that makes the Mandelbrot
 
-###[Demo](https://webmanifestation.github.io/mandelbrot-GLSL/)###
+### [Demo](https://webmanifestation.github.io/mandelbrot-GLSL/) ###
 
 Click to zoom into parts of the Mandeldrot set.
 
