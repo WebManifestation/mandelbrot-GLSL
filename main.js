@@ -49,9 +49,6 @@ void main(){
   }
 
   float brightness = map(n, 0.0, 100.0, 0.0, 1.0);
-  float red = map(n, 0.0, 100.0, 1.0, 0.0);
-  float green = map(n, 0.0, 100.0, 1.0, 0.0);
-  float blue = map(n, 0.0, 100.0, 1.0, 0.0);
 
   vec3 color = vec3(brightness, brightness, brightness);
   gl_FragColor = vec4(color, 1.0);
